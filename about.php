@@ -6,7 +6,7 @@
 </head>
 <body>
     
-<div><a href="m.php"><img src="img/logotip.png" alt="" style="width: 80px; height: 80px;"></a></div>
+<div><a href="index.php"><img src="img/logotip.png" alt="" style="width: 80px; height: 80px;"></a></div>
 
 <div class="say">
             <h2 align="center">О компании</h2>
