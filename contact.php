@@ -3,7 +3,7 @@
 <title>Contact</title>
 </head>
 <link rel="stylesheet" href="css/style.css">
-<div><a href="m.php"><img src="img/logotip.png" alt="" style="width: 80px; height: 80px;"></a></div>
+<div><a href="index.php"><img src="img/logotip.png" alt="" style="width: 80px; height: 80px;"></a></div>
 <div class="message">
         <div class="tx5">
             <h1>Обратная связь.</h1>
