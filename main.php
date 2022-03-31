@@ -15,7 +15,7 @@
     <title>Автосалон</title>
 </head>
 <body>
-  <div><a href="m.php"><img src="img/logotip.png" alt="" style="width: 80px; height: 80px;"></a></div>
+  <div><a href="index.php"><img src="img/logotip.png" alt="" style="width: 80px; height: 80px;"></a></div>
     <main>
     <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-indicators">
